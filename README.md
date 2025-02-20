@@ -29,7 +29,7 @@ Using the powerful DESeq2 package, we conducted a thorough differential expressi
 - **Heatmap Visualization**: We also crafted a heatmap for genes with a -log10(padj) greater than 20, which showcased clusters of genes with similar expression patterns, highlighting their potential shared biological functions.
 
 ## Detailed Figures
-![Dispersion Plot](/path/to/figure1.png)
+![Dispersion Plot](https://github.com/iprotic535/Genome-Wide-Association-Study-GWAS-of-Sheep/blob/main/images/dispersions.png)
 *Figure 1: Dispersion plot illustrating the variability in gene expression among samples.*
 
 ![PCA Plot](/path/to/figure2.png)
