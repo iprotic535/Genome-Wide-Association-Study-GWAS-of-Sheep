@@ -32,16 +32,16 @@ Using the powerful DESeq2 package, we conducted a thorough differential expressi
 ![Dispersion Plot](https://github.com/iprotic535/Genome-Wide-Association-Study-GWAS-of-Sheep/blob/main/images/dispersions.png)
 *Figure 1: Dispersion plot illustrating the variability in gene expression among samples.*
 
-![PCA Plot](/path/to/figure2.png)
+![PCA Plot](https://github.com/iprotic535/Genome-Wide-Association-Study-GWAS-of-Sheep/blob/main/images/pca.png)
 *Figure 2: PCA plot demonstrating the separation of samples based on treatment groups.*
 
-![MA Plot](/path/to/figure3.png)
+![MA Plot](https://github.com/iprotic535/Genome-Wide-Association-Study-GWAS-of-Sheep/blob/main/images/MA.png)
 *Figure 3: MA plot displaying log fold changes against the average of normalized counts.*
 
-![Volcano Plot](/path/to/figure4.png)
+![Volcano Plot](https://github.com/iprotic535/Genome-Wide-Association-Study-GWAS-of-Sheep/blob/main/images/Volcano.png)
 *Figure 4: Volcano plot showcasing log2 fold changes plotted against -log10 adjusted p-values.*
 
-![Heatmap](/path/to/figure5.png)
+![Heatmap](https://github.com/iprotic535/Genome-Wide-Association-Study-GWAS-of-Sheep/blob/main/images/Heatmap.png)
 *Figure 5: Heatmap of significant genes, depicting clustering based on expression patterns and highlighting potential biological processes influenced by treatments.*
 
 ## Repository Structure
